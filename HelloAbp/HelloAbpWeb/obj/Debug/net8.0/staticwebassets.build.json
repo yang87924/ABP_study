@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z/5qPGnrqZAspTCuyaf0pzwivE9gukO7M1WaD8yRiFw=",
+  "Source": "HelloAbpWeb",
+  "BasePath": "_content/HelloAbpWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
